@@ -44,4 +44,4 @@ Use the IsolateLetters.ipynb notebook to process handwritten sentences.
 * Upload an image of handwritten text (we've provided some test images).
 * Make sure to change the path of the image
 * The notebook will extract individual letters and classify them using the trained CNN.
-* Within seconds, you'll see the predicted text. (May take longer depending on image size)
+* Within seconds, you'll see the predicted text. <sup>(May take longer depending on image size)<sup>
