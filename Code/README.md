@@ -1,6 +1,8 @@
 # Handwriting Recognition with Machine Learning
 
-Welcome to our project! Here's how to teach a computer to read handwritten text using machine learning. We'll train a model to recognize individual handwritten letters and use clustering techniques to process and "read" entire sentences.
+Welcome to our project! Here's how to teach a computer to read handwritten text using machine learning. We'll train a model to recognize individual handwritten letters and use clustering techniques to process and "read" entire sentences. 
+
+Note: our code is built in Colab for easy integration with Google Drive; feel free to change destination paths or dataset uploading methods as needed!
 
 ## Overview
 
